@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HAGE-AI: Social Media Comments Analysis Platform
 
 HAGE-AI is a powerful tool for analyzing social media comments to extract sentiment, aspects, and valuable insights.
@@ -110,3 +111,6 @@ The application uses:
 - `GET /api/analysis` - Get all analyses
 - `GET /api/analysis/[id]` - Get a specific analysis
 - `DELETE /api/analysis/[id]` - Delete a specific analysis
+=======
+# HAGE-AI
+>>>>>>> 09eb8d8b63a113420c32fa19b355e5ac76f32da5
